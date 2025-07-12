@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "https://vbdata13.github.io/Personal-website/"
 title   = "Vignesh Balaji"
 theme   = "PaperMod"
 
