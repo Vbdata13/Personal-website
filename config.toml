@@ -1,0 +1,4 @@
+baseURL = "http://localhost/"
+title   = "Vignesh Balaji"
+theme   = "PaperMod"
+
